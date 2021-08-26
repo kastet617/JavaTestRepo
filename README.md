@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kastet617/LearningDevOps/_apis/build/status/kastet617.JavaTestRepo?branchName=master)](https://dev.azure.com/kastet617/LearningDevOps/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
